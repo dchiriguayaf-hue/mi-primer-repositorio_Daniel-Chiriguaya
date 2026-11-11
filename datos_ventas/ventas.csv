@@ -1,1 +1,6 @@
-
+id_venta,id_cliente,producto,cantidad,total
+101,1,Laptop,1,650.00
+102,2,Mouse,2,18.50
+103,3,Teclado,1,45.00
+104,4,Audifonos,2,25.00
+105,5,Monitor,1,175.00
