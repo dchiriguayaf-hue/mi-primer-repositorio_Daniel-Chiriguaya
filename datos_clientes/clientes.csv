@@ -1,1 +1,6 @@
-
+id_cliente,nombre,ciudad,telefono,correo
+1,Carlos,Guayaquil,0991234567,carlos@example.com
+2,Maria,Daule,0982345678,maria@example.com
+3,Andres,Samborondon,0973456789,andres@example.com
+4,Valeria,Duran,0964567890,valeria@example.com
+5,Jose,Milagro,0955678901,jose@example.com
